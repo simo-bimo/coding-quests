@@ -1,6 +1,6 @@
 # Newton's Fractal
 
-I've elected to try to make a ncie little app to mess around with Newton's Fractals, as per Grant Sanderson's recent [videos](https://www.youtube.com/watch?v=-RdOwhmqP5s&ab_channel=3Blue1Brown).
+I've elected to try to make a nice little app to mess around with Newton's Fractals, as per Grant Sanderson's recent [videos](https://www.youtube.com/watch?v=-RdOwhmqP5s&ab_channel=3Blue1Brown).
 
 ## Attempt 1 - 31/10/2021
 
