@@ -1,2 +1,2 @@
 # coding-quests
-A small repository of little pet projects.
+A pile of pet projects. Coding adventures is already taken, but I think quests has a nicer ring to it anyway since that implies there is a specific goal that I might achieve.
